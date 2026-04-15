@@ -115,7 +115,7 @@ azure-landing-zone-blueprint/
 
 ## Author
 
-**Prashant Chauhan** — Senior Cloud Architect, Landis+Gyr  
+**Prashant Chauhan** — Designed · Engineered · Validated · Delivered @ Landis+Gyr  
 GitHub: [@gethepc](https://github.com/gethepc)  
 LinkedIn: [prashant-chauhan-2b5a0b11](https://www.linkedin.com/in/prashant-chauhan-2b5a0b11/)
 
