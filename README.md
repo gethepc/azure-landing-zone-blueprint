@@ -11,7 +11,7 @@
 
 This blueprint documents an **enterprise-grade Azure Landing Zone** architecture designed to onboard workloads safely, securely, and consistently across multiple business units and environments.
 
-Designed and implemented at **Landis+Gyr** as part of a hybrid cloud programme.
+Designed and implemented at a **global utility and IoT enterprise** as part of a hybrid cloud programme.
 
 ---
 
@@ -115,7 +115,7 @@ azure-landing-zone-blueprint/
 
 ## Author
 
-**Prashant Chauhan** — Designed · Engineered · Validated · Delivered @ Landis+Gyr  
+**Prashant Chauhan** — Designed · Engineered · Validated · Delivered  
 GitHub: [@gethepc](https://github.com/gethepc)  
 LinkedIn: [prashant-chauhan-2b5a0b11](https://www.linkedin.com/in/prashant-chauhan-2b5a0b11/)
 
